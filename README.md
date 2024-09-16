@@ -15,6 +15,11 @@
 3. Cube root simplification
 4. Factor listing
 5. Number of factors
+6. 3D Pythagorean Theorem
+7. 3D Distance
+8. Midpoint
+9. Center of polygon given it's coordinates
+10. Shoelace (coord bashing)
 
 # What all of the files do
 ## DIST.8xp
