@@ -7,7 +7,7 @@
 6. Click "open program"
 7. Select one of the .8xp files you downloaded
 8. Click the button to send it to your calculator
-9. Go back to 7
+9. Go back to 6 if you want more programs
 
 # Programs to be added later
 1. Base conversion
