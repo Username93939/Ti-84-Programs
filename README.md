@@ -16,9 +16,8 @@
 4. Number of factors
 5. 3D Pythagorean Theorem
 6. 3D Distance
-7. Midpoint
-8. Center of polygon given it's coordinates
-9. Shoelace (coord bashing)
+7. Center of polygon given it's coordinates
+8. Shoelace (coord bashing)
 
 # What all of the files do
 ## DIST.8xp
@@ -27,3 +26,5 @@ It is distance formula calculator and simplifies radicals when there are integer
 Simplifies square roots
 ## HERONS.8xp
 Uses Heron's formula to solve the area of the triangle with your given side lengths
+## MIDPOINT.8xp
+Finds the midpoint of the points you enter
