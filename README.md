@@ -10,19 +10,20 @@
 9. Repeat 7 untill you installed every desired program
 
 # Programs to be added later
-1. Heron's formula
-2. Base conversion
-3. Cube root simplification
-4. Factor listing
-5. Number of factors
-6. 3D Pythagorean Theorem
-7. 3D Distance
-8. Midpoint
-9. Center of polygon given it's coordinates
-10. Shoelace (coord bashing)
+1. Base conversion
+2. Cube root simplification
+3. Factor listing
+4. Number of factors
+5. 3D Pythagorean Theorem
+6. 3D Distance
+7. Midpoint
+8. Center of polygon given it's coordinates
+9. Shoelace (coord bashing)
 
 # What all of the files do
 ## DIST.8xp
 It is distance formula calculator and simplifies radicals when there are integer coordinates
 ## SIMPRAD.8xp
 Simplifies square roots
+## HERONS.8xp
+Uses Heron's formula to solve the area of the triangle with your given side lengths
