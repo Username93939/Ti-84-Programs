@@ -21,10 +21,18 @@
 
 # What all of the files do
 ## DIST.8xp
+v1.0.0
+
 It is distance formula calculator and simplifies radicals when there are integer coordinates
 ## SIMPRAD.8xp
+v1.1.0 - Gives results much faster for larger numbers
+
 Simplifies square roots
 ## HERONS.8xp
+v1.0.0
+
 Uses Heron's formula to solve the area of the triangle with your given side lengths
 ## MIDPOINT.8xp
+v1.0.0
+
 Finds the midpoint of the points you enter
