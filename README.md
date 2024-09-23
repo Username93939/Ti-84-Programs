@@ -21,9 +21,9 @@
 
 # What all of the files do
 ## DIST.8xp
-v1.0.0
+v1.1.0 - Gives answers faster
 
-It is distance formula calculator and simplifies radicals when there are integer coordinates
+It is distance formula calculator
 ## SIMPRAD.8xp
 v1.2.0 - Gives results much faster for larger numbers
 
