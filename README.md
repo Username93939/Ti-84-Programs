@@ -25,7 +25,7 @@ v1.0.0
 
 It is distance formula calculator and simplifies radicals when there are integer coordinates
 ## SIMPRAD.8xp
-v1.1.0 - Gives results much faster for larger numbers
+v1.2.0 - Gives results much faster for larger numbers
 
 Simplifies square roots
 ## HERONS.8xp
